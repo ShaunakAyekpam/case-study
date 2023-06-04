@@ -1,0 +1,55 @@
+.text_images_result
+{
+    border-radius: 10px;
+    background-color: aliceblue;
+    width: 600px;
+    padding: 20px;
+    text-align: left;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.img-responsive
+{
+    border-radius: 10px;
+    width: 50%;
+    height: 50%;
+}
+
+b
+{
+    color: blue;
+}
+
+.bob3
+{
+    background-color: lightgray;
+    border-radius: 10px;
+    width: 525px;
+    text-align: center;
+    padding: 10px;
+}
+
+span
+{
+    font-weight: bold;
+    font-size: 17px;
+    color: red;
+}
+
+.conclusion
+{
+    width: 800px;
+    background-color: rgb(189, 222, 253);
+    border-radius: 10px;
+    border: 2px solid blue;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow: 5px 5px 5px gray;
+    padding: 10px;
+    text-align: left;
+}
+
+.conclusion h5
+{
+    font-size: 17px;
+}
